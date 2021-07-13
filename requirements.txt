@@ -18,11 +18,6 @@ pickleshare
 Pillow
 prompt-toolkit==1.0.15
 protobuf==3.17.2
-pytz
-pywin32==300
-pywinpty==1.1.3
-PyYAML==5.4.1
-pyzmq
 scipy
 tensorboard==1.14.0
 tensorflow==1.14.0
