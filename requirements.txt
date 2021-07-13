@@ -18,7 +18,6 @@ pickleshare
 Pillow
 prompt-toolkit==1.0.15
 protobuf==3.17.2
-python==3.6.13
 scipy
 tensorboard==1.14.0
 tensorflow==1.14.0
