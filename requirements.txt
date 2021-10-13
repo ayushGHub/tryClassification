@@ -28,8 +28,6 @@ ipython-genutils==0.2.0
 itsdangerous
 Jinja2
 jsonschema
-jupyter-client
-jupyter-core
 Keras==2.0.8
 Keras-Applications==1.0.8
 Keras-Preprocessing
